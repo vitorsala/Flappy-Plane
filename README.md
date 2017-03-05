@@ -1,2 +1,2 @@
 # Flappy-Plane
-Poject created to show students how an Unity Project Works
+Project created to show students how an Unity Project looks like
